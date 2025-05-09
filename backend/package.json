@@ -1,12 +1,12 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "created by raushan kumar",
+  "description": "created by -----",
   "main": "index.js",
   "scripts": {
-    "serve": "nodemon server.js "
+    "serve": "nodemon index.js "
   },
-  "author": "Raushan Kumar",
+  "author": "--------",
   "license": "ISC",
   "dependencies": {
     "backend": "file:",
