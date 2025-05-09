@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const schedule = require('node-schedule');
 require('dotenv').config();
 
-const mongoUrl ="mongodb://127.0.0.1:27017/newtaxdb";
+const mongoUrl ="mongodb+srv://harshal:CsTg5w0upPnW5Ttq@cluster0.69rkq.mongodb.net/newtaxdb";
 // console.log(mongoUrl)
 
 const connectToMongo = () => {
